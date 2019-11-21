@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-15 Puzzle [Roger Ivie]",
+      "appliesTo": "Chip-8/roms/games/15 Puzzle [Roger Ivie].ch8",
+      "type": "launch"
+    }
+  ]
+}
